@@ -16,8 +16,6 @@ Considere un árbol enraizado. Un árbol con raíz tiene un vértice especial ll
  
 Llamemos abeto a un árbol enraizado si cada uno de sus vértices que no son hojas tiene al menos 3 hijos hojas. Dado un árbol enraizado, comprueba si es un abeto.
 
-La definición de un árbol enraizado se puede encontrar aquí.
-
 ## <span style="color: rgb(26, 99, 169);">**Entrada**</span>
 La primera línea contiene un número entero *n*: el número de vértices en el árbol (3 <= *n* <= 1000). Cada una de las siguientes *n* - 1 líneas contiene un número entero p<sub>i</sub> (1 <= *i* <= *n* - 1), el índice del padre del *i* + 1-ésimo vértice (1 <= p<sub>i</sub> <= i).
 
